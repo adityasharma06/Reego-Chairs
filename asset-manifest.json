@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Reego-Chairs/static/css/main.e438a36b.css",
+    "main.js": "/Reego-Chairs/static/js/main.c1d44797.js",
+    "static/js/453.171ddc7f.chunk.js": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js",
+    "static/media/img1.jpg": "/Reego-Chairs/static/media/img1.f4d7932d93d7e81b625a.jpg",
+    "static/media/logo.png": "/Reego-Chairs/static/media/logo.3272bd47e08284f7086e.png",
+    "index.html": "/Reego-Chairs/index.html",
+    "main.e438a36b.css.map": "/Reego-Chairs/static/css/main.e438a36b.css.map",
+    "main.c1d44797.js.map": "/Reego-Chairs/static/js/main.c1d44797.js.map",
+    "453.171ddc7f.chunk.js.map": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e438a36b.css",
+    "static/js/main.c1d44797.js"
+  ]
+}
