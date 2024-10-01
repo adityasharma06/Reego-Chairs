@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Reego-Chairs/static/css/main.53af6e7b.css",
-    "main.js": "/Reego-Chairs/static/js/main.de71b4a5.js",
-    "static/js/453.171ddc7f.chunk.js": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js",
-    "static/media/logo.png": "/Reego-Chairs/static/media/logo.3272bd47e08284f7086e.png",
-    "static/media/woman.png": "/Reego-Chairs/static/media/woman.b5f5d2994117daab0fa9.png",
-    "static/media/man.png": "/Reego-Chairs/static/media/man.5b6adb8e38ee506fde52.png",
-    "index.html": "/Reego-Chairs/index.html",
-    "main.53af6e7b.css.map": "/Reego-Chairs/static/css/main.53af6e7b.css.map",
-    "main.de71b4a5.js.map": "/Reego-Chairs/static/js/main.de71b4a5.js.map",
-    "453.171ddc7f.chunk.js.map": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js.map"
+    "main.css": "/Reego-Chairs/blob/main/public/static/css/main.53af6e7b.css",
+    "main.js": "/Reego-Chairs/blob/main/public/static/js/main.a4886032.js",
+    "static/js/453.171ddc7f.chunk.js": "/Reego-Chairs/blob/main/public/static/js/453.171ddc7f.chunk.js",
+    "static/media/logo.png": "/Reego-Chairs/blob/main/public/static/media/logo.3272bd47e08284f7086e.png",
+    "static/media/woman.png": "/Reego-Chairs/blob/main/public/static/media/woman.b5f5d2994117daab0fa9.png",
+    "static/media/man.png": "/Reego-Chairs/blob/main/public/static/media/man.5b6adb8e38ee506fde52.png",
+    "index.html": "/Reego-Chairs/blob/main/public/index.html",
+    "main.53af6e7b.css.map": "/Reego-Chairs/blob/main/public/static/css/main.53af6e7b.css.map",
+    "main.a4886032.js.map": "/Reego-Chairs/blob/main/public/static/js/main.a4886032.js.map",
+    "453.171ddc7f.chunk.js.map": "/Reego-Chairs/blob/main/public/static/js/453.171ddc7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53af6e7b.css",
-    "static/js/main.de71b4a5.js"
+    "static/js/main.a4886032.js"
   ]
 }
