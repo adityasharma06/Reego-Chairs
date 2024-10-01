@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/Reego-Chairs/static/css/main.53af6e7b.css",
-    "main.js": "/Reego-Chairs/static/js/main.de71b4a5.js",
-    "static/js/453.171ddc7f.chunk.js": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js",
-    "static/media/logo.png": "/Reego-Chairs/static/media/logo.3272bd47e08284f7086e.png",
-    "static/media/woman.png": "/Reego-Chairs/static/media/woman.b5f5d2994117daab0fa9.png",
-    "static/media/man.png": "/Reego-Chairs/static/media/man.5b6adb8e38ee506fde52.png",
-    "index.html": "/Reego-Chairs/index.html",
-    "main.53af6e7b.css.map": "/Reego-Chairs/static/css/main.53af6e7b.css.map",
-    "main.de71b4a5.js.map": "/Reego-Chairs/static/js/main.de71b4a5.js.map",
-    "453.171ddc7f.chunk.js.map": "/Reego-Chairs/static/js/453.171ddc7f.chunk.js.map"
+    "main.css": "/static/css/main.de4278ae.css",
+    "main.js": "/static/js/main.c29be4a3.js",
+    "static/js/453.8644a9c4.chunk.js": "/static/js/453.8644a9c4.chunk.js",
+    "static/media/image4.jpg": "/static/media/image4.ca85586b4f00da659e1d.jpg",
+    "static/media/image6.jpg": "/static/media/image6.734ce6ef14e8e35d45a4.jpg",
+    "static/media/image5.jpg": "/static/media/image5.e74aa4c6aa39a63ad9e1.jpg",
+    "static/media/image1.jpg": "/static/media/image1.b219a2cf4347883cf801.jpg",
+    "static/media/image3.jpg": "/static/media/image3.6a5b26098bb86b233b9f.jpg",
+    "static/media/image2.jpg": "/static/media/image2.bd7740d7782c0ed83ef5.jpg",
+    "static/media/logo.png": "/static/media/logo.3272bd47e08284f7086e.png",
+    "static/media/woman.png": "/static/media/woman.b5f5d2994117daab0fa9.png",
+    "static/media/man.png": "/static/media/man.5b6adb8e38ee506fde52.png",
+    "static/media/amex.png": "/static/media/amex.527edf329e422aae25d8.png",
+    "index.html": "/index.html",
+    "main.de4278ae.css.map": "/static/css/main.de4278ae.css.map",
+    "main.c29be4a3.js.map": "/static/js/main.c29be4a3.js.map",
+    "453.8644a9c4.chunk.js.map": "/static/js/453.8644a9c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53af6e7b.css",
-    "static/js/main.de71b4a5.js"
+    "static/css/main.de4278ae.css",
+    "static/js/main.c29be4a3.js"
   ]
 }
